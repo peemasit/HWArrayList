@@ -1,0 +1,14 @@
+C:\Users\peema\source\repos\ArrayListHW\ArrayListHW\bin\Debug\ArrayListHW.exe.config
+C:\Users\peema\source\repos\ArrayListHW\ArrayListHW\bin\Debug\ArrayListHW.exe
+C:\Users\peema\source\repos\ArrayListHW\ArrayListHW\bin\Debug\ArrayListHW.pdb
+C:\Users\peema\source\repos\ArrayListHW\ArrayListHW\obj\Debug\MainWindow.g.cs
+C:\Users\peema\source\repos\ArrayListHW\ArrayListHW\obj\Debug\App.g.cs
+C:\Users\peema\source\repos\ArrayListHW\ArrayListHW\obj\Debug\ArrayListHW_MarkupCompile.cache
+C:\Users\peema\source\repos\ArrayListHW\ArrayListHW\obj\Debug\ArrayListHW_MarkupCompile.lref
+C:\Users\peema\source\repos\ArrayListHW\ArrayListHW\obj\Debug\MainWindow.baml
+C:\Users\peema\source\repos\ArrayListHW\ArrayListHW\obj\Debug\ArrayListHW.g.resources
+C:\Users\peema\source\repos\ArrayListHW\ArrayListHW\obj\Debug\ArrayListHW.Properties.Resources.resources
+C:\Users\peema\source\repos\ArrayListHW\ArrayListHW\obj\Debug\ArrayListHW.csproj.GenerateResource.cache
+C:\Users\peema\source\repos\ArrayListHW\ArrayListHW\obj\Debug\ArrayListHW.csproj.CoreCompileInputs.cache
+C:\Users\peema\source\repos\ArrayListHW\ArrayListHW\obj\Debug\ArrayListHW.exe
+C:\Users\peema\source\repos\ArrayListHW\ArrayListHW\obj\Debug\ArrayListHW.pdb
